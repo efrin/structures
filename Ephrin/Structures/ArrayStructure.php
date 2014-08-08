@@ -1,8 +1,6 @@
 <?php
 
-
 namespace Ephrin\Structures;
-
 
 /**
  * Class ArrayStructure
