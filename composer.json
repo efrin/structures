@@ -1,7 +1,8 @@
 {
     "name": "ephrin/structures",
+    "type": "library",
     "description": "helpers",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
@@ -9,6 +10,9 @@
             "email": "lazycommit@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=5.3.3"
+    },
     "require-dev":{
         "phpunit/phpunit": "3.7.37"
     },
